@@ -1,4 +1,4 @@
-# דוד ארנפלד / README.md
+#  David Erenfeld / README.md
 
 👋 Hey, I'm David
 
