@@ -20,6 +20,8 @@ I am a final year student at the College of Management Academic Studies (COMAS) 
   - React
   - Node.js
   - Express
+- **Databases:**
+  - MongoDB
 - **Testing & Documentation:**
   - Jest
   - Swagger
