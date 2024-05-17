@@ -42,5 +42,7 @@ I am driven by a passion for challenges, creating, and designing complex systems
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/david-erenfeld?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
+Feel free to reach out via phone: 050-3781079
+
 Thanks for dropping by! 🌟
 
