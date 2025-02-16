@@ -1,8 +1,8 @@
 # David Erenfeld / README.md
 
-👋 Hey, I'm David
+👋 Hey, I'm David Erenfeld
 
-Welcome to my GitHub space! 🚀
+Welcome to my GitHub space! 
 
 ## 🌐 Overview
 
